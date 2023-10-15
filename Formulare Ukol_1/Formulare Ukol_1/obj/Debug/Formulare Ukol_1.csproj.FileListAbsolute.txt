@@ -1,0 +1,10 @@
+D:\Antonín Štolfa\PRG\C#\Formulare Ukol_1\Formulare Ukol_1\bin\Debug\Formulare Ukol_1.exe.config
+D:\Antonín Štolfa\PRG\C#\Formulare Ukol_1\Formulare Ukol_1\bin\Debug\Formulare Ukol_1.exe
+D:\Antonín Štolfa\PRG\C#\Formulare Ukol_1\Formulare Ukol_1\bin\Debug\Formulare Ukol_1.pdb
+D:\Antonín Štolfa\PRG\C#\Formulare Ukol_1\Formulare Ukol_1\obj\Debug\Formulare Ukol_1.csproj.AssemblyReference.cache
+D:\Antonín Štolfa\PRG\C#\Formulare Ukol_1\Formulare Ukol_1\obj\Debug\Formulare_Ukol_1.Properties.Resources.resources
+D:\Antonín Štolfa\PRG\C#\Formulare Ukol_1\Formulare Ukol_1\obj\Debug\Formulare Ukol_1.csproj.GenerateResource.cache
+D:\Antonín Štolfa\PRG\C#\Formulare Ukol_1\Formulare Ukol_1\obj\Debug\Formulare Ukol_1.csproj.CoreCompileInputs.cache
+D:\Antonín Štolfa\PRG\C#\Formulare Ukol_1\Formulare Ukol_1\obj\Debug\Formulare Ukol_1.exe
+D:\Antonín Štolfa\PRG\C#\Formulare Ukol_1\Formulare Ukol_1\obj\Debug\Formulare Ukol_1.pdb
+D:\Antonín Štolfa\PRG\C#\Formulare Ukol_1\Formulare Ukol_1\obj\Debug\Formulare_Ukol_1.Form1.resources
