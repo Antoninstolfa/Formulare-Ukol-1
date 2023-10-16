@@ -37,7 +37,7 @@ namespace Formulare_Ukol_1
                 ulozit.Location = new Point(10, 40);
 
                 Button zrusit = new Button();
-                zrusit.DialogResult = DialogResult.OK;
+                zrusit.DialogResult = DialogResult.Cancel;
                 zrusit.Size = new Size(60, 20);
                 zrusit.Text = "Zrušit";
                 zrusit.Location = new Point(10, 60);
